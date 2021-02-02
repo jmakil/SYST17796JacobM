@@ -20,6 +20,7 @@ public class StudentList {
      for (String name: students){
          System.out.println(name);
      }
+     System.out.println("Thank you, see you again!);
     }
     
 }
